@@ -1,0 +1,114 @@
+* {
+   box-sizing: border-box;
+   text-align: center; 
+   background-color: #777;
+}
+
+Body {
+   font-family: Arial, Helvetica, sans-serif;
+   color: #777;
+   background: #777;
+   width: 960px;
+   font-size: 18px;
+   box-sizing: border-box;
+   margin-left: 17%;
+   margin-bottom: 30px;
+}
+
+
+header {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    background: #ebebeb;
+    width: 960px;
+    font-size: 18px;
+    height: 70px;
+    padding: 20px;
+}
+
+nav {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    background: #ebebeb;
+    width: 960px;
+    font-size: 18px;
+    margin-bottom: 10px;
+    margin-top: 15px;
+    height: 70px;
+    padding: 20px;
+}
+
+#right {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    background: #ebebeb;
+    width: 360px;
+    font-size: 18px;
+    margin-top: 15px;
+    float: right;
+    height: 300px;
+    margin-right: 40px;
+}
+
+#left {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    background: #ebebeb;
+    width: 550px;
+    font-size: 18px;
+    margin-top: 15px;
+    float: left;
+    height: 300px;
+    margin-bottom: 30px;
+    margin-right:10px;
+}
+
+article {
+    clear: both;
+    overflow: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ebebeb;
+    background: #777;
+    width: 470px;
+    font-size: 18px;
+    margin-top: 15px;
+    height: 250px;
+    margin-left: 30px;
+}
+
+#container {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    background: #ebebeb;
+    width: 400px;
+    font-size: 18px;
+    margin-top: 15px;
+    height: 70px;
+    padding: 20px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+#container2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    background: #ebebeb;
+    width: 400px;
+    font-size: 18px;
+    margin-left: 20px;
+    margin-top: 15px;
+    height: 70px;
+    padding: 20px;
+}
+
+footer {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    background: #ebebeb;
+    width: 960px;
+    font-size: 18px;
+    margin-top: 10px;
+    height: 70px;
+    padding: 20px;
+    clear:both;
+}
